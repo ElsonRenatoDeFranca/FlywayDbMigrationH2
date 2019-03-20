@@ -37,3 +37,4 @@ Drops all objects (tables, views, procedures, triggers, …) in the configured s
 
 	mvn flyway:clean
 	
+source: https://flywaydb.org/documentation/command/repair
