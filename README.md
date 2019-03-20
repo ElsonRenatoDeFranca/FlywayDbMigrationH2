@@ -1,4 +1,4 @@
-# Data migration with H2
+# Data migration with Maven and H2
 
 This application allows the integration between Flyway and H2.
 
